@@ -1,2 +1,5 @@
 前端知识点
 1. HTML知识点
+Web标准（HTML：结构，CSS：表现，js：行为）
+浏览器内核：
+Google（webkit/Blink），IE（Trident），Firefox（Gecko），Safari（Webkit），Opera（Presto/Blink）
